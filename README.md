@@ -27,5 +27,7 @@ I’m a passionate IT student at Xavier University with a strong curiosity for t
 -💡 Created multiple POS and inventory management systems for local businesses
 -🚀 Currently developing my final API project
   
+  Fun Fact
+  - I love playing games in different genres especially RPG and Im also competative so just hit me up (Jepoyskies)
 
 Thanks for stopping by!
